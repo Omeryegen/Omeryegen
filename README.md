@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omeryegen
+- 👋 Hi, I’m Ömer Yeğen
 - 👀 I’m interested in Front- and Backend Developement
 - 🌱 I’m currently learning HTML/CSS, Javascript, React, Node, Express
 - 💞️ I’m looking to collaborate on tech companies.
